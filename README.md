@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+* それはそれとして社会性フィルターを製作中です
+* とはいえ，現在ガワすらできていませんのでもうちょっと待ってね
